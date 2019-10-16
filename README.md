@@ -1,4 +1,4 @@
-# SOA Predictive Modeling Innovation and Industry Contest 2019 First Place
+# 2019 Predictive Modeling, Innovation and Industry Contest: First Place
 
 This notebook can be downloaded or viewed directly via the below link.
 
