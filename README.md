@@ -2,5 +2,4 @@
 
 This notebook can be downloaded or viewed directly via the below link.
 
-First Place: "Predicting Uncertainty: Prediction Intervals from Gradient Boosted Quantile Regression" by Sam Castillo https://nbviewer.jupyter.org/github/SOASections/SOAJupyterContest2019/blob/master/Predicting%20Uncertainty%20Prediction%20Intervals%20from%20Gradient%20Boosted%20Quantile%20Regression.ipynb
-
+First Place: "Predicting Uncertainty: Prediction Intervals from Gradient Boosted Quantile Regression" by Sam Castillo https://nbviewer.jupyter.org/github/SOASections/SOA-Predictive-Modeling-Innovation-and-Industry-Contest-2019-First-Place/blob/master/Predicting%20Uncertainty%20Prediction%20Intervals%20from%20Gradient%20Boosted%20Quantile%20Regression.ipynb
